@@ -1,0 +1,11 @@
+C:\Users\Simon\source\repos\RandomGroup\Random\bin\Debug\netcoreapp3.0\Random.exe
+C:\Users\Simon\source\repos\RandomGroup\Random\bin\Debug\netcoreapp3.0\Random.deps.json
+C:\Users\Simon\source\repos\RandomGroup\Random\bin\Debug\netcoreapp3.0\Random.runtimeconfig.json
+C:\Users\Simon\source\repos\RandomGroup\Random\bin\Debug\netcoreapp3.0\Random.runtimeconfig.dev.json
+C:\Users\Simon\source\repos\RandomGroup\Random\bin\Debug\netcoreapp3.0\Random.dll
+C:\Users\Simon\source\repos\RandomGroup\Random\bin\Debug\netcoreapp3.0\Random.pdb
+C:\Users\Simon\source\repos\RandomGroup\Random\obj\Debug\netcoreapp3.0\Random.csprojAssemblyReference.cache
+C:\Users\Simon\source\repos\RandomGroup\Random\obj\Debug\netcoreapp3.0\Random.AssemblyInfoInputs.cache
+C:\Users\Simon\source\repos\RandomGroup\Random\obj\Debug\netcoreapp3.0\Random.AssemblyInfo.cs
+C:\Users\Simon\source\repos\RandomGroup\Random\obj\Debug\netcoreapp3.0\Random.dll
+C:\Users\Simon\source\repos\RandomGroup\Random\obj\Debug\netcoreapp3.0\Random.pdb
