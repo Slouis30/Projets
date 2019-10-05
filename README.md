@@ -1,3 +1,3 @@
 # Projets
 
-Fichier .exe dans \Projets-master\Random\bin\Release\netcoreapp3.0
+Fichier .exe dans \Projets-master\Random\bin\Release\netcoreapp3.0 -> Random.exe
